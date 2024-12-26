@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  font-size: 30px;
+  padding: 20px 25px;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
